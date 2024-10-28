@@ -1,6 +1,8 @@
-This repository contains my completed labs from the Operating Systems 2 course during my second year of Computer Science at TU Dublin. The labs were developed on Linux Ubuntu using bash commands and feature various C programs that focus on essential concepts such as process management, threading, inter-process communication, data structures, and memory management.
+This repository contains my completed labs from the Operating Systems 2 course during my second year of Computer Science at TU Dublin.
 
-### Key Programs Include:
+The labs were developed on Linux Ubuntu using bash commands and feature various C programs that focus on essential concepts such as process management, threading, inter-process communication, data structures, and memory management.
+
+## Key Programs Include:
 
 - **Linked Lists:** Implementation and traversal of linked lists, along with operations for stacks and queues using linked structures.
 
